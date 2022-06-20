@@ -1,4 +1,4 @@
-# Anotações ![image](https://user-images.githubusercontent.com/105254140/174506032-a2c16aef-db09-4b34-9129-908efbc23e01.png)
+# Anotações ![image](https://user-images.githubusercontent.com/105254140/174506232-e7e84369-a867-4c2d-ade4-ac0e95cfc50f.png)
 
 ### Desafio de projeto sobre Git/GitHub 
 ### Progredindo aos poucos, vencendo a procrastinação
